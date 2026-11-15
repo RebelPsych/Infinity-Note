@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Note",
+  "description": "A lightning-fast markdown note editor that saves directly to local storage as you write.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
